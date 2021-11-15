@@ -14,7 +14,7 @@ Here are a few things I've picked up along my learning journey.
  ![styled-components](https://img.shields.io/badge/styled%20components-yellow?style=for-the-badge&logo=styledcomponents&logoColor=#DB7093) ![emotion](https://img.shields.io/badge/emotion-green?style=for-the-badge&logo=&logoColor=#DB7093) ![webpack](https://img.shields.io/badge/webpack-orange?style=for-the-badge&logo=webpack&logoColor=#8DD6F9) ![npm](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=#CB3837) ![gulp](https://img.shields.io/badge/gulp-blue?style=for-the-badge&logo=gulp&logoColor=#CF4647) ![FramerMotion](https://img.shields.io/badge/framer%20motion-yellow?style=for-the-badge&logo=framer&logoColor=#CF4647)
  
  
- ![LARAVEL](https://img.shields.io/badge/LARAVEL-majento?style=for-the-badge&logo=laravel&logoColor=#FF2D20) ![CodeIgnitor](https://img.shields.io/badge/CodeIgniter-yellow?style=for-the-badge&logo=codeigniter&logoColor=#EF4223) ![WordPress](https://img.shields.io/badge/wordpress-green?style=for-the-badge&logo=wordpress&logoColor=#21759B)
+ ![LARAVEL](https://img.shields.io/badge/LARAVEL-majento?style=for-the-badge&logo=laravel&logoColor=#FF2D20) ![CodeIgnitor](https://img.shields.io/badge/CodeIgniter-yellow?style=for-the-badge&logo=codeigniter&logoColor=#EF4223) ![WordPress](https://img.shields.io/badge/wordpress-green?style=for-the-badge&logo=wordpress&logoColor=#21759B) ![gutenberg](https://img.shields.io/badge/gutenberg-orange?style=for-the-badge&logo=gutenberg&logoColor=#000000) ![plugins](https://img.shields.io/badge/Custom%20Plugin%20Development-blue?style=for-the-badge&logo=wordpress&logoColor=#000000) ![themes](https://img.shields.io/badge/Theme%20Development-silver?style=for-the-badge&logo=wordpress&logoColor=#000000)
  
  
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-salmon?style=for-the-badge&logo=firebase&logoColor=#FFCA28)
@@ -25,7 +25,7 @@ Here are a few things I've picked up along my learning journey.
  
  ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![bash](https://img.shields.io/badge/bash-282F34?style=for-the-badge&logo=gnubash&logoColor=#4EAA25) ![linux](https://img.shields.io/badge/linux-f7f7f7?style=for-the-badge&logo=linux&logoColor=#FCC624) ![Terminal](https://img.shields.io/badge/terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=#FCC624) ![ssh](https://img.shields.io/badge/ssh-yellow?style=for-the-badge&logo=windowsterminal&logoColor=#FCC624)
  
-![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-Vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=blue) ![gimp](https://img.shields.io/badge/gimp-black?style=for-the-badge&logo=gimp&logoColor=#5C5543)
+![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-Vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=blue) ![gimp](https://img.shields.io/badge/gimp-black?style=for-the-badge&logo=gimp&logoColor=#5C5543) ![photoshop](https://img.shields.io/badge/photoshop-071834?style=for-the-badge&logo=adobephotoshop&logoColor=#31A8FF)
  
  
 ## 📫 Get in touch
