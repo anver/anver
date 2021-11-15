@@ -2,7 +2,7 @@
 
 I am a Full Stack Software Developer. I am passionate about learning new things.
 
-## ⚡ Tech Stack
+## 🍔 Tech Stack
 
 Here are a few things I've picked up along my learning journey.
 
@@ -28,6 +28,7 @@ Here are a few things I've picked up along my learning journey.
 ![vim](https://img.shields.io/badge/vim-orange?style=for-the-badge&logo=vim&logoColor=#019733) ![vscode](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=#007ACC) ![figma](https://img.shields.io/badge/figma-EAEAEA?style=for-the-badge&logo=figma&logoColor=#F24E1E) ![gimp](https://img.shields.io/badge/gimp-black?style=for-the-badge&logo=gimp&logoColor=#5C5543) ![photoshop](https://img.shields.io/badge/photoshop-071834?style=for-the-badge&logo=adobephotoshop&logoColor=#31A8FF)
 
 
+## 📊 Github Stats
 ![app](https://github-readme-stats.vercel.app/api/top-langs/?username=anver&theme=blue-green)
 
 
