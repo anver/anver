@@ -20,6 +20,7 @@ Here are a few things I've picked up along my learning journey.
 ![SolidJS](https://img.shields.io/badge/SOLIDJS-c7c7c7?style=for-the-badge) 
 ![nextjs](https://img.shields.io/badge/next%20js-salmon?style=for-the-badge&logo=nextdotjs&logoColor=#000000) 
 ![gatsby](https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) 
+![strapi](https://img.shields.io/badge/strapi-20232A?style=for-the-badge&logo=strapi&logoColor=#2F2E8B)
 ![jquery](https://img.shields.io/badge/jquery-yellow?style=for-the-badge&logo=jquery&logoColor=#0769AD) 
 ![lodash](https://img.shields.io/badge/lodash-blue?style=for-the-badge&logo=lodash&logoColor=#3492FF)
 
