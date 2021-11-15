@@ -36,6 +36,8 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 <a href="https://wa.me/916380242144"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:anvergdr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://facebook.com/anvergdr"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
+
 
 
 
