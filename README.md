@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Anver Sadutt, I'm a Husband, Father and a WordPress / Javascript lover! 👨
 
-- 🔭 I’m currently working on a Drag and Drop WordPress Animation Plugin
+- 🔭 I’m currently working on something awesome related to ChatGPT :)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to get lost fishing 
