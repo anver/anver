@@ -1,6 +1,6 @@
 
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Anver Sadutt, I'm a Husband, Father and a WordPress / Javascript lover! 👨
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Anver Sadutt, I'm a Husband, Father and a Javascript lover! 👨
 
 - 🔭 I’m currently working on something awesome related to ChatGPT :)
 - 👯 I’m looking to collaborate with other content creators
