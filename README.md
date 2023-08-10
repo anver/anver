@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a Drag and Drop WordPress Animation Plugin
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to get lost fishing 
 
 ## 🍔 Tech Stack
